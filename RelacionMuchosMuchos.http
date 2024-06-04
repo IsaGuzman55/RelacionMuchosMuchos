@@ -1,0 +1,6 @@
+@RelacionMuchosMuchos_HostAddress = http://localhost:5095
+
+GET {{RelacionMuchosMuchos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
